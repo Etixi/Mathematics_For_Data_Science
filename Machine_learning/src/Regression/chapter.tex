@@ -1,0 +1,19 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section{Régression linéaire et logistique}
+
+La régression est une méthode permettant d'étudier la relation entre une variable de réponse \( Y \) et une covariable \( X \). La covariable est également appelée variable prédictive ou caractéristique. Une façon de résumer la relation entre \( X \) et \( Y \) consiste à utiliser la fonction de régression :
+\[ r(x) = E(Y \,|\, X = x) = \int_{-\infty}^{\infty} y \, f(y \,|\, x) \, dy \]
+
+Notre objectif est d'estimer la fonction de régression \( r(x) \) à partir de données de la forme \( (X_1, Y_1), \ldots, (X_n, Y_n) \sim F_{X,Y} \). Dans ce chapitre, nous adoptons une approche paramétrique et supposons que \( r \) est linéaire.
+
+\subsection{Régression linéaire simple}
+
+La version la plus simple de la régression est lorsque \( X_i \) est simple (unidimensionnel) et \( r(x) \) est supposé linéaire :
+\[ r(x) = \beta_0 + \beta_1 x \]
+
+\end{document}
+
