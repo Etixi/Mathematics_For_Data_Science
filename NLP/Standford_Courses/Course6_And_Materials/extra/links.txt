@@ -1,0 +1,3 @@
+https://distill.pub/2016/augmented-rnns/
+
+https://arxiv.org/abs/1604.00788

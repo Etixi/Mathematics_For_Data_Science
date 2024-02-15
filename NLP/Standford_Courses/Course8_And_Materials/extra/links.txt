@@ -1,0 +1,3 @@
+https://jalammar.github.io/illustrated-transformer/
+
+https://blog.research.google/2017/08/transformer-novel-neural-network.html

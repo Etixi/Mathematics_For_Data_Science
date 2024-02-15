@@ -1,0 +1,11 @@
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+https://www.deeplearningbook.org/contents/rnn.html
+
+https://norvig.com/chomsky.html
+
+https://www.deeplearningbook.org/contents/rnn.html
+
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/lectures/vanishing_grad_example.html
+
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
